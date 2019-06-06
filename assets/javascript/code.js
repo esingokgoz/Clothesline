@@ -6,9 +6,9 @@ function displayClothes() {
     $('#etsyResults').show();
 
     
-    api_key = "bf9ozfq9t6ema7mdurr2t0or",
+    api_key = "bf9ozfq9t6ema7mdurr2t0or";
     // other key
-    // api_key = "vy2ijcoryhesrk8tkbsf6geh",
+    // api_key = "vy2ijcoryhesrk8tkbsf6geh";
   
 
     //terms = $('#etsy-terms').val();
